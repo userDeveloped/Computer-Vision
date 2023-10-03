@@ -1,2 +1,2 @@
 # Computer-Vision
-Computer vision side projects. 
+Computer vision side projects
